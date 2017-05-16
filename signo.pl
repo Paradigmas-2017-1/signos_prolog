@@ -117,71 +117,78 @@ afinidade(libra, gemeos, 	 	10, 9, 8, 9).
 afinidade(libra, libra, 	 	9, 8, 8, 9).
 afinidade(libra, aquario, 	 	10, 8, 8, 9).
 
-afinidade(escorpiao, aries, 		, , , ).
-afinidade(escorpiao, leao, 			, , , ).
-afinidade(escorpiao, sagitario, 	, , , ).
-afinidade(escorpiao, touro, 		, , , ).
-afinidade(escorpiao, virgem, 		, , , ).
-afinidade(escorpiao, capricornio,	, , , ).
-afinidade(escorpiao, cancer, 		, , , ).
-afinidade(escorpiao, escorpiao, 	, , , ).
-afinidade(escorpiao, peixes,		, , , ).
-afinidade(escorpiao, gemeos, 	 	, , , ).
-afinidade(escorpiao, libra, 	 	, , , ).
-afinidade(escorpiao, aquario, 	 	, , , ).
+afinidade(escorpiao, aries, 		5, 8, 7, 6).
+afinidade(escorpiao, leao, 			6, 9, 6, 7).
+afinidade(escorpiao, sagitario, 	5, 8, 6, 5).
+afinidade(escorpiao, touro, 		7, 9, 8, 7).
+afinidade(escorpiao, virgem, 		7, 7, 8, 10).
+afinidade(escorpiao, capricornio,	8, 9, 8, 9).
+afinidade(escorpiao, cancer, 		10, 9, 8, 9).
+afinidade(escorpiao, escorpiao, 	9, 10, 8, 9).
+afinidade(escorpiao, peixes,		10, 9, 8, 9).
+afinidade(escorpiao, gemeos, 	 	5, 8, 7, 6).
+afinidade(escorpiao, libra, 	 	4, 7, 6, 5).
+afinidade(escorpiao, aquario, 	 	5, 8, 6, 6).
 
-afinidade(sagitario, aries, 		, , , ).
-afinidade(sagitario, leao, 			, , , ).
-afinidade(sagitario, sagitario, 	, , , ).
-afinidade(sagitario, touro, 		, , , ).
-afinidade(sagitario, virgem, 		, , , ).
-afinidade(sagitario, capricornio,	, , , ).
-afinidade(sagitario, cancer, 		, , , ).
-afinidade(sagitario, escorpiao, 	, , , ).
-afinidade(sagitario, peixes,		, , , ).
-afinidade(sagitario, gemeos, 	 	, , , ).
-afinidade(sagitario, libra, 	 	, , , ).
-afinidade(sagitario, aquario, 	 	, , , ).
+afinidade(sagitario, aries, 		10, 9, 7, 9).
+afinidade(sagitario, leao, 			10, 9, 8, 9).
+afinidade(sagitario, sagitario, 	9, 9, 8, 9).
+afinidade(sagitario, touro, 		5, 8, 5, 6).
+afinidade(sagitario, virgem, 		6, 7, 6, 7).
+afinidade(sagitario, capricornio,	5, 7, 6, 5).
+afinidade(sagitario, cancer, 		5, 8, 7, 6).
+afinidade(sagitario, escorpiao, 	4, 8, 6, 5).
+afinidade(sagitario, peixes,		6, 8, 7, 6).
+afinidade(sagitario, gemeos, 	 	8, 9, 7, 8).
+afinidade(sagitario, libra, 	 	9, 8, 8, 10).
+afinidade(sagitario, aquario, 	 	9, 8, 9, 10).
 
-afinidade(capricornio, aries, 		, , , ).
-afinidade(capricornio, leao, 		, , , ).
-afinidade(capricornio, sagitario, 	, , , ).
-afinidade(capricornio, touro, 		, , , ).
-afinidade(capricornio, virgem, 		, , , ).
-afinidade(capricornio, capricornio,	, , , ).
-afinidade(capricornio, cancer, 		, , , ).
-afinidade(capricornio, escorpiao, 	, , , ).
-afinidade(capricornio, peixes,		, , , ).
-afinidade(capricornio, gemeos, 	 	, , , ).
-afinidade(capricornio, libra, 	 	, , , ).
-afinidade(capricornio, aquario,  	, , , ).
+afinidade(capricornio, aries, 		6, 7, 9, 6).
+afinidade(capricornio, leao, 		5, 8, 7, 6).
+afinidade(capricornio, sagitario, 	4, 7, 6, 5).
+afinidade(capricornio, touro, 		10, 8, 9, 9).
+afinidade(capricornio, virgem, 		10, 9, 8, 8).
+afinidade(capricornio, capricornio,	9, 9, 10, 8).
+afinidade(capricornio, cancer, 		8, 7, 8, 7).
+afinidade(capricornio, escorpiao, 	8, 9, 8, 10).
+afinidade(capricornio, peixes,		8, 9, 8, 9).
+afinidade(capricornio, gemeos, 	 	5, 9, 7, 6).
+afinidade(capricornio, libra, 	 	6, 7, 8, 7).
+afinidade(capricornio, aquario,  	5, 7, 6, 5).
 
-afinidade(aquario, aries, 		, , , ).
-afinidade(aquario, leao, 		, , , ).
-afinidade(aquario, sagitario, 	, , , ).
-afinidade(aquario, touro, 		, , , ).
-afinidade(aquario, virgem, 		, , , ).
-afinidade(aquario, capricornio,	, , , ).
-afinidade(aquario, cancer, 		, , , ).
-afinidade(aquario, escorpiao, 	, , , ).
-afinidade(aquario, peixes,		, , , ).
-afinidade(aquario, gemeos, 	 	, , , ).
-afinidade(aquario, libra, 	 	, , , ).
-afinidade(aquario, aquario,  	, , , ).
+afinidade(aquario, aries, 		8, 7, 7, 10).
+afinidade(aquario, leao, 		7, 7, 8, 8).
+afinidade(aquario, sagitario, 	9, 8, 9, 10).
+afinidade(aquario, touro, 		5, 6, 7, 6).
+afinidade(aquario, virgem, 		5, 8, 7, 6).
+afinidade(aquario, capricornio,	4, 7, 6, 5).
+afinidade(aquario, cancer, 		5, 8, 6, 6).
+afinidade(aquario, escorpiao, 	5, 8, 6, 6).
+afinidade(aquario, peixes,		5, 8, 6, 6).
+afinidade(aquario, gemeos, 	 	9, 8, 9, 10).
+afinidade(aquario, libra, 	 	10, 8, 8, 9).
+afinidade(aquario, aquario,  	9, 8, 8, 10).
 
-afinidade(peixes, aries, 		, , , ).
-afinidade(peixes, leao, 		, , , ).
-afinidade(peixes, sagitario, 	, , , ).
-afinidade(peixes, touro, 		, , , ).
-afinidade(peixes, virgem, 		, , , ).
-afinidade(peixes, capricornio,	, , , ).
-afinidade(peixes, cancer, 		, , , ).
-afinidade(peixes, escorpiao, 	, , , ).
-afinidade(peixes, peixes,		, , , ).
-afinidade(peixes, gemeos, 	 	, , , ).
-afinidade(peixes, libra, 	 	, , , ).
-afinidade(peixes, aquario, 	 	, , , ).
+afinidade(peixes, aries, 		5, 8, 6, 5).
+afinidade(peixes, leao, 		5, 8, 5, 6).
+afinidade(peixes, sagitario, 	6, 8, 7, 6).
+afinidade(peixes, touro, 		7, 8, 7, 9).
+afinidade(peixes, virgem, 		7, 8, 7, 9).
+afinidade(peixes, capricornio,	8, 9, 8, 10).
+afinidade(peixes, cancer, 		10, 9, 9, 10).
+afinidade(peixes, escorpiao, 	9, 10, 8, 9).
+afinidade(peixes, peixes,		10, 9, 7, 9).
+afinidade(peixes, gemeos, 	 	6, 7, 8, 6).
+afinidade(peixes, libra, 	 	5, 9, 7, 6).
+afinidade(peixes, aquario, 	 	4, 8, 6, 6).
 
 
-combinacao(Signo,X):-afinidade(Signo,X,Amor,_,_,_),Amor>=9.
+combinacaoAmor(Signo, Outro) :- afinidade(Signo, Outro, Amor, _, _, _), Amor >= 9.
+combinacaoSexo(Signo, Outro) :- afinidade(Signo, Outro, _, Sexo, _, _), Sexo >= 9.
+combinacaoTrabalho(Signo, Outro) :- afinidade(Signo, Outro, _, _, Trabalho, _), Trabalho >= 9.
+combinacaoAmizade(Signo, Outro) :- afinidade(Signo, Outro, _, _, _, Amizade), Amizade >= 9.
 
+entrarCombinacaoAmor :- read(Signo), read(Outro), combinacaoAmor(Signo, Outro).
+entrarCombinacaoSexo :- read(Signo), read(Outro), combinacaoSexo(Signo, Outro).
+entrarCombinacaoTrabalho :- read(Signo), read(Outro), combinacaoTrabalho(Signo, Outro).
+entrarCombinacaoAmizade :- read(Signo), read(Outro), combinacaoAmizade(Signo, Outro).
