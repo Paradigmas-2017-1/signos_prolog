@@ -1,0 +1,12 @@
+horoscopo(aries,21,3,19,4).
+horoscopo(touro,20,4,20,5).
+horoscopo(gemeos,21,5,20,6).
+horoscopo(cancer,21,6,22,7).
+horoscopo(leao,23,7,22,8).
+horoscopo(virgem,23,8,22,9).
+horoscopo(libra,22,9,22,10).
+horoscopo(escorpiao,23,10,21,11).
+horoscopo(sagitario,22,11,21,12).
+horoscopo(capricornio,22,12,19,1).
+horoscopo(aquario,20,1,18,2).
+horoscopo(peixes,19,2,20,3).
